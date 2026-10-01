@@ -1,0 +1,22 @@
+{C:/Users/hadar/frontend VLSI/lab4/sin_lut.sv} {1 {vlog -work work -sv -stats=none {C:/Users/hadar/frontend VLSI/lab4/sin_lut.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sin_lut
+
+Top level modules:
+	sin_lut
+
+} {} {}} {C:/Users/hadar/frontend VLSI/lab4/sin_gen.sv} {1 {vlog -work work -sv -stats=none {C:/Users/hadar/frontend VLSI/lab4/sin_gen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sin_gen
+
+Top level modules:
+	sin_gen
+
+} {} {}} {C:/Users/hadar/frontend VLSI/lab4/sin_gen_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/hadar/frontend VLSI/lab4/sin_gen_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_sin_gen
+
+Top level modules:
+	tb_sin_gen
+
+} {} {}}
